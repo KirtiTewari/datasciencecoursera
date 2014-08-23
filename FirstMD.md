@@ -2,4 +2,4 @@
 
 * First Point
 * Second point
-* [Link to google] [https://www.google.co.in]
+* [Link to google] (https://www.google.co.in)
